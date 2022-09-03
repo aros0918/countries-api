@@ -39,7 +39,7 @@ Users should be able to:
 1. Clone the repo
 
    ```sh
-   git clone git@github.com:ErysCode7/cocktails.git
+   git clone git@github.com:ErysCode7/countries-api.git
    ```
 
 2. Install NPM packages
